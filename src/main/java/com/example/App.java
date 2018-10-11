@@ -11,7 +11,7 @@ public class App {
 
 	@RequestMapping("/")
 	public String sayHi(String name) {
-		return "版本2";
+		return "版本22";
 	}
 
 	public static void main(String[] args) {
