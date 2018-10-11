@@ -1,7 +1,6 @@
 ---
 applications:
 - name: hi-2
-  path: target/hi-2-0.0.1-SNAPSHOT.jar
   env:
     SPRING_PROFILES_ACTIVE: development
     TRUST_CERTS: api.chinaportpaas.com
