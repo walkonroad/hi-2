@@ -1,5 +1,6 @@
 ---
 applications:
 - name: hi-2
+  path: target/hi-2-0.0.1-SNAPSHOT.jar
   env:
     TRUST_CERTS: api.chinaportpaas.com
